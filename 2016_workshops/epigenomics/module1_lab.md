@@ -9,7 +9,7 @@
 ## Introduction
 
 ### Description of the lab
-What will be covered in this module
+In this laboratory pratical you will learn how to use the command line to access the files on the server, run FASTQC on selected fastq files and copy the resulting output to your laptop for review. 
 
 ### Local software that we will use
 * ssh
